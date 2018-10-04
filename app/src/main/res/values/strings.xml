@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">User Registration App</string>
+    <string name="msg_app">Mobile Computing</string>
+    <string name="splash_start">START!</string>
+    <string name="register">Register Here!</string>
+    <string name="login">Log in Here!</string>
+    <string name="user_request">Please Log In or Register!</string>
+    <string name="reg1">Enter your First Name</string>
+    <string name="reg2">Enter your Last Name</string>
+    <string name="reg3">Enter your Date of Birth</string>
+    <string name="reg4">Enter your Email</string>
+    <string name="reg5">Enter your Password</string>
+
+    <string name="hint1">First Name</string>
+    <string name="hint2">Last Name</string>
+    <string name="hint3">Date of Birth</string>
+    <string name="hint4">Email</string>
+    <string name="hint5">Password</string>
+</resources>
